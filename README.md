@@ -1,6 +1,3 @@
-Here's the formatted and styled README.md:
-
-```markdown
 # e2e-leads-machine-learning-pipeline
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/your-org/e2e-leads-machine-learning-pipeline/ci.yml?branch=main&style=flat-square)](https://github.com/your-org/e2e-leads-machine-learning-pipeline/actions)  
@@ -133,6 +130,4 @@ Combining both signals yields a holistic lead profile for smarter routing and hi
 | 123     | John Doe   | 0.83       | 0.75            | Positive        | High Priority Lead           |
 | 456     | Jane Smith | 0.90       | -0.60           | Negative        | Review Manually Before Sales |
 | 789     | Bob White  | 0.35       | 0.80            | Positive        | Consider for Nurturing       |
-
----
 
