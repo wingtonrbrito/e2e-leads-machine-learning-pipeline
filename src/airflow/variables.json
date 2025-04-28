@@ -1,0 +1,21 @@
+{
+  "_comment": "Keep short variable values here and long values in extended_variables.json",
+  "airflow_vars": {
+    "sensors": {
+      "dataflow_job_state_sensor": {
+        "poke_interval": 360,
+        "poke_timeout": 1800
+      }
+    },
+    "dags": {
+      "wrench_to_bq": {
+        "hours_until_filtered": 24,
+        "insight_ids": [
+          "match-score", "persuasion", "relationship-fit",
+          "channel", "adopt-curve", "archetypes"
+        ]
+      
+      }
+    }
+  }
+}

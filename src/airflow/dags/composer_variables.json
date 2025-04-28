@@ -1,0 +1,15 @@
+{
+    "default": {},
+    "local": {
+        "ENV": "local"
+    },
+    "dev": {
+        "ENV": "dev"
+    },
+    "tst": {
+        "ENV": "tst"
+    },
+    "prd": {
+        "ENV": "prd"
+    }
+}

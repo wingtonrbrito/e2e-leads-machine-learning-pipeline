@@ -1,0 +1,9 @@
+boto3==1.7.84
+google-cloud-secret-manager==2.0.0
+neo4j==4.0.0
+pycloudsqlproxy==0.0.15
+pyconfighelper==0.0.9
+pymysql==0.9.3
+setuptools==45.2.0
+typing-extensions==3.7.4.3
+virtualenv==20.0.31

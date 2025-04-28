@@ -1,0 +1,8 @@
+airflow.cfg
+airflow.db
+logs
+*.egg*
+*.err
+*.log
+*.out
+*.pid

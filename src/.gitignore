@@ -1,0 +1,6 @@
+bin/
+*.egg-info/*
+*.egg
+**/*.egg
+**/dist/
+dist/
